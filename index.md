@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 [Prisutstvo na 7. Okolišnom Film Festivalu](/sample_page)
-<img src="images/7.okolisni filmski festival.jpg?raw=true"/>
+<img src="images/7.okolisni filmski festival.jpeg?raw=true"/>
 
 ---
 [Prisutstvo na Dubrovnik Film Festivalu](/pdf/sample_presentation.pdf)
