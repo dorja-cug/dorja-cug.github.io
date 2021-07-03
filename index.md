@@ -4,7 +4,7 @@
 
 ### Potvrde o sudjelovanju
 
-[Prisutstvo na 7. Okolišnom Film Festivalu](/sample_page)
+[Prisutstvo na 7. Okolišnom Film Festivalu]
 <img src="images/7.okolisni filmski festival.jpeg?raw=true"/>---
 
 
@@ -15,17 +15,17 @@
 [Prisutstvo na Plitvice Film Festivalu](https://www.facebook.com/watch/?v=509903089794936)
 <img src="images/Plitvice film festival.jpg?raw=true"/>---
 
-[Prisutstvo na Four River Film Festivalu](http://example.com/)
+[Prisutstvo na Four River Film Festivalu]
 <img src="images/frff.jpg?raw=true"/>---
 [Prisutstvo na Zasvijetli izložbi](https://nizagorjemalo.hr/luc/sudigo-zasvijetlio-u-zagrebu-u-zizi-drustvenih-promjena/)
 <img src="images/Zasvijetli.jpg?raw=true"/>---
 [Sudjelovanje na Betina Film Festival kampusu](https://www.facebook.com/BetinaFilmFestival/photos/1162013280851315/)
 <img src="images/Baff.jpg?raw=true"/>---
-[Sudjelovanje na županijskom natjecanju iz engleskog jezika](http://example.com/)
+[Sudjelovanje na županijskom natjecanju iz engleskog jezika]
 <img src="images/Pohvalnica iz engleskog.jpg?raw=true"/>
 [Sudjelovanje u TEDtalk programu](https://www.youtube.com/watch?v=mSFSfSh-xGE)
 <img src="images/Ted talk.jpg?raw=true"/>---
-[Potvrda o završenom tečaju](http://example.com/)
+[Potvrda o završenom tečaju]
 <img src="images/certifikat.jpg?raw=true"/>---
 
 ### Moji filmovi
