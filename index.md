@@ -28,7 +28,7 @@
 ---Potvrda o završenom tečaju
 <img src="images/certifikat.jpg?raw=true"/>
 ---Youthpass 16/08/2020
-<img src="images/YP Ommen.pdf?raw=true"/>
+<embed src="images/YP Ommen.pdf?raw=true"/>pdf" type="application/pdf" width="100%" height="600px"/>
 ---Youthpass 15/10/2018
 <img src="images/YP Zitnik.pdf?raw=true"/>
 
