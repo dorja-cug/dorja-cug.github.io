@@ -5,16 +5,16 @@
 ### Potvrde o sudjelovanju
 
 [Prisutstvo na 7. Okolišnom Film Festivalu](/sample_page)
-<img src="images/7.okolisni filmski festival.jpeg?raw=true"/>
+<img src="images/7.okolisni filmski festival.jpeg?raw=true"/>---
 
----
+
 [Prisutstvo na Dubrovnik Film Festivalu](/pdf/sample_presentation.pdf)
-<img src="images/DUFF kugarica.jpg?raw=true"/>
+<img src="images/DUFF kugarica.jpg?raw=true"/>---
 
----
+
 [Prisutstvo na Plitvice Film Festivalu](http://example.com/)
-<img src="images/Plitvice film festival.jpg?raw=true"/>
----
+<img src="images/Plitvice film festival.jpg?raw=true"/>---
+
 [Prisutstvo na Four River Film Festivalu](http://example.com/)
 <img src="images/frff.jpg?raw=true"/>---
 [Prisutstvo na Zasvijetli izložbi](http://example.com/)
