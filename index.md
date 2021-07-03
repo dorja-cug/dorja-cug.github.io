@@ -27,7 +27,6 @@
 <img src="images/Ted talk.jpg?raw=true"/>---
 [Potvrda o završenom tečaju](http://example.com/)
 <img src="images/certifikat.jpg?raw=true"/>---
----
 
 ### Moji filmovi
 
@@ -37,9 +36,7 @@
 - [facade](https://youtu.be/vJhwPj2xjGU)
 - [Chess warfare](https://youtu.be/BknSIQ34q6o)
 
----
 
 
 
 
----
