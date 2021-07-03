@@ -18,7 +18,11 @@
 [Prisutstvo na Four River Film Festivalu](http://example.com/)
 <img src="images/frff.jpg?raw=true"/>---
 [Prisutstvo na Zasvijetli izložbi](http://example.com/)
-<img src="images/Zasvijetli.jpg?raw=true"/>
+<img src="images/Zasvijetli.jpg?raw=true"/>---
+[Sudjelovanje na Betina Film Festival kampusu](http://example.com/)
+<img src="images/Baff.jpg?raw=true"/>---
+[Sudjelovanje na županijskom natjecanju iz engleskog jezika](http://example.com/)
+<img src="images/Pohvalnica iz engleskog.jpg?raw=true"/>
 ---
 
 ### Moji filmovi
