@@ -8,7 +8,7 @@
 <img src="images/7.okolisni filmski festival.jpeg?raw=true"/>---
 
 
-[Prisutstvo na Dubrovnik Film Festivalu](/pdf/sample_presentation.pdf)
+[Prisutstvo na Dubrovnik Film Festivalu]
 <img src="images/DUFF kugarica.jpg?raw=true"/>---
 
 
