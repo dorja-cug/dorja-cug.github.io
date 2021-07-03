@@ -8,14 +8,14 @@
 <img src="images/7.okolisni filmski festival.jpeg?raw=true"/>
 
 
----[Prisutstvo na Dubrovnik Film Festivalu]
+---[Prisutstvo na Dubrovnik Film Festivalu](https://www.zagorje.com/clanak/vijesti/kratkometrazni-film-moderna-kuharica-dorje-cug-i-dee-vitas-iz-sudigo-a-plasirao-se-na-dubr)
 <img src="images/DUFF kugarica.jpg?raw=true"/>
 
 
 ---[Prisutstvo na Plitvice Film Festivalu](https://www.facebook.com/watch/?v=509903089794936)
 <img src="images/Plitvice film festival.jpg?raw=true"/>
 
----[Prisutstvo na Four River Film Festivalu]
+---[Prisutstvo na Four River Film Festivalu](https://frff.com.hr/extfiles/catalogues/ct2019.pdf)
 <img src="images/frff.jpg?raw=true"/>
 ---[Prisutstvo na Zasvijetli izložbi](https://nizagorjemalo.hr/luc/sudigo-zasvijetlio-u-zagrebu-u-zizi-drustvenih-promjena/)
 <img src="images/Zasvijetli.jpg?raw=true"/>
