@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Potvrde o sudjelovanju
 
 [Prisutstvo na 7. Okolišnom Film Festivalu](/sample_page)
 <img src="images/7.okolisni filmski festival.jpeg?raw=true"/>
