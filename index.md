@@ -19,7 +19,7 @@
 <img src="images/frff.jpg?raw=true"/>---
 [Prisutstvo na Zasvijetli izložbi](https://nizagorjemalo.hr/luc/sudigo-zasvijetlio-u-zagrebu-u-zizi-drustvenih-promjena/)
 <img src="images/Zasvijetli.jpg?raw=true"/>---
-[Sudjelovanje na Betina Film Festival kampusu](http://example.com/)
+[Sudjelovanje na Betina Film Festival kampusu](https://www.facebook.com/BetinaFilmFestival/photos/1162013280851315/)
 <img src="images/Baff.jpg?raw=true"/>---
 [Sudjelovanje na županijskom natjecanju iz engleskog jezika](http://example.com/)
 <img src="images/Pohvalnica iz engleskog.jpg?raw=true"/>
