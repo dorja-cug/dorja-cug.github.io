@@ -23,6 +23,10 @@
 <img src="images/Baff.jpg?raw=true"/>---
 [Sudjelovanje na županijskom natjecanju iz engleskog jezika](http://example.com/)
 <img src="images/Pohvalnica iz engleskog.jpg?raw=true"/>
+[Sudjelovanje u TEDtalk programu](http://example.com/)
+<img src="images/Ted talk.jpg?raw=true"/>---
+[Potvrda o završenom tečaju](http://example.com/)
+<img src="images/certifikat.jpg?raw=true"/>---
 ---
 
 ### Moji filmovi
