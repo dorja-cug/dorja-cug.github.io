@@ -4,7 +4,7 @@
 
 ### Potvrde o sudjelovanju
 
----Sudjelovanje na 7. Okolišnom Film Festivalu
+---Sudjelovanje na 7. Okolišnom Film Festivalu kao autorica filma
 <img src="images/7.okolisni filmski festival.jpeg?raw=true"/>
 
 
