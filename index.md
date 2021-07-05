@@ -10,7 +10,7 @@ Na ovome festivalu sudjelovala sam kao autorica filma "Moderna Kugarica".<br>
 
 
 ---[Sudjelovanje na Dubrovnik Film Festivalu](https://www.zagorje.com/clanak/vijesti/kratkometrazni-film-moderna-kuharica-dorje-cug-i-dee-vitas-iz-sudigo-a-plasirao-se-na-dubr)
-<img src="images/DUFF kugarica.jpg?raw=true"/>
+<img src="images/DUFF kugarica.jpg?raw=true"/><br>
 Sudjelovala sam kao autorica filma "Modern Crookshow".<br>
 ---[Sudjelovanje na Plitvice Film Festivalu](https://www.facebook.com/watch/?v=509903089794936)
 <img src="images/Plitvice film festival.jpg?raw=true"/><br>
