@@ -18,7 +18,7 @@
 <img src="images/Baff.jpg?raw=true"/><br>
 ---Sudjelovanje na županijskom natjecanju iz engleskog jezika
 <img src="images/engleski.jpg?raw=true"/><br>
----[Sudjelovanje u TEDtalk programu kao govoronica](https://www.youtube.com/watch?v=mSFSfSh-xGE)
+---[Sudjelovanje u Mocktalk programu kao govoronica](https://www.youtube.com/watch?v=mSFSfSh-xGE)
 <img src="images/ted_talk.jpg?raw=true"/><br>
 ---Potvrda o završenom tečaju
 <img src="images/certifikat.jpg?raw=true"/><br>
