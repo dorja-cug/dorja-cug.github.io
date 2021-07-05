@@ -20,6 +20,8 @@
 <img src="images/engleski.jpg?raw=true"/><br>
 ---[Sudjelovanje u Mock Talks programu kao govoronica](https://www.youtube.com/watch?v=mSFSfSh-xGE)
 <img src="images/ted_talk.jpg?raw=true"/><br>
+---[Sudjelovanje u HRT emisiji kao govoronica](https://radio.hrt.hr/aod/nastava-bez-zvona-u-zaboku/304979/?fbclid=IwAR2XrJT7Reg1O0EKrR3rteZB9ybCu6l_3vdxqe_tTpLsCMsiOFLb6VHuwtw)
+<img src="images/radio.jpg?raw=true"/><br>
 ---Potvrda o završenom tečaju
 <img src="images/certifikat.jpg?raw=true"/><br>
 ---Youthpass RePlay - Ommen, Nizozemska 16/08/2020
