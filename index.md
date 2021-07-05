@@ -23,11 +23,12 @@ Sudjelovala sam kao autorica filma "Modern Crookshow".<br>
 Sudjelovala sam kao suautorica videoinstalacije "Kosa".<br>
 ---[Sudjelovanje na Betina Film Festival kampusu](https://www.facebook.com/BetinaFilmFestival/photos/1162013280851315/)
 <img src="images/Baff.jpg?raw=true"/>
-<br>
+U sklopu trodnevnog scenarističkog programa "Disciplina mašte" vođena od strane Renata Baretića.<br>
 ---Sudjelovanje na županijskom natjecanju iz engleskog jezika
 <img src="images/Pohvalnica iz engleskog.jpg?raw=true"/><br>
----[Sudjelovanje u TEDtalk programu kao govornica](https://www.youtube.com/watch?v=mSFSfSh-xGE)
-<img src="images/Ted talk.jpg?raw=true"/><br>
+---[Sudjelovanje u TEDtalk programu](https://www.youtube.com/watch?v=mSFSfSh-xGE)
+<img src="images/Ted talk.jpg?raw=true"/>
+Sudjelovala sam kao sugovornica, spisateljica i snimateljica.<br>
 ---Potvrda o završenom tečaju
 <img src="images/certifikat.jpg?raw=true"/><br>
 ---Youthpass RePlay - Ommen, Nizozemska 16/08/2020
@@ -35,8 +36,9 @@ Sudjelovala sam kao suautorica videoinstalacije "Kosa".<br>
 ---Youthpass Active & Creative - Žitnik, Hrvatska 15/10/2018
 <embed src="images/YP Zitnik.pdf?raw=true"/><br>
 <br>
-[Reboot Online - livestream intervju kao suautorica igre](https://youtu.be/apc8aJwuOnM)
+[Reboot Online - livestream intervju](https://youtu.be/apc8aJwuOnM)
 <img src="images/reboot.jpg?raw=true"/>
+Sudjelovala sam kao suatorica video igre u izradi.<br>
 
 ### Moji filmovi
 
