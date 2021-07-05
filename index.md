@@ -22,12 +22,12 @@ Sudjelovala sam kao autorica filma "Modern Crookshow".<br>
 <img src="images/Zasvijetli.jpg?raw=true"/>
 Sudjelovala sam kao suautorica videoinstalacije "Kosa".<br>
 ---[Sudjelovanje na Betina Film Festival kampusu](https://www.facebook.com/BetinaFilmFestival/photos/1162013280851315/)
-<img src="images/Baff.jpg?raw=true"/>
+<img src="images/Baff.jpg?raw=true"/><br>
 U sklopu trodnevnog scenarističkog programa "Disciplina mašte" vođena od strane Renata Baretića.<br>
 ---Sudjelovanje na županijskom natjecanju iz engleskog jezika
 <img src="images/Pohvalnica iz engleskog.jpg?raw=true"/><br>
 ---[Sudjelovanje u TEDtalk programu](https://www.youtube.com/watch?v=mSFSfSh-xGE)
-<img src="images/Ted talk.jpg?raw=true"/>
+<img src="images/Ted talk.jpg?raw=true"/><br>
 Sudjelovala sam kao sugovornica, spisateljica i snimateljica.<br>
 ---Potvrda o završenom tečaju
 <img src="images/certifikat.jpg?raw=true"/><br>
