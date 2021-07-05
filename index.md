@@ -4,8 +4,9 @@
 
 ### Potvrde o sudjelovanju
 
----Sudjelovanje na 7. Okolišnom Film Festivalu kao autorica filma
+---Sudjelovanje na 7. Okolišnom Film Festivalu
 <img src="images/7.okolisni filmski festival.jpeg?raw=true"/>
+Na ovome festivalu sudjelovala sam kao autorica filma "Modern Crookshow". 
 
 
 ---[Sudjelovanje na Dubrovnik Film Festivalu kao autorica filma](https://www.zagorje.com/clanak/vijesti/kratkometrazni-film-moderna-kuharica-dorje-cug-i-dee-vitas-iz-sudigo-a-plasirao-se-na-dubr)
