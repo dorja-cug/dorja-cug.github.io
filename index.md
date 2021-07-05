@@ -5,7 +5,7 @@
 ### Potvrde o sudjelovanju
 
 ---Sudjelovanje na 7. Okolišnom Film Festivalu kao autorica filma
-<img src="images/7okolisniFilmskiFestival.jpeg?raw=true"/><br>
+<img src="images/okolisni_filmski_festival.jpeg?raw=true"/><br>
 ---[Sudjelovanje na Dubrovnik Film Festivalu kao autorica filma](https://www.zagorje.com/clanak/vijesti/kratkometrazni-film-moderna-kuharica-dorje-cug-i-dee-vitas-iz-sudigo-a-plasirao-se-na-dubr)
 <img src="images/DUFF kugarica.jpg?raw=true"/><br>
 ---[Sudjelovanje na Plitvice Film Festivalu kao autorica filma](https://www.facebook.com/watch/?v=509903089794936)
