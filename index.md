@@ -14,7 +14,7 @@ Na ovome festivalu sudjelovala sam kao autorica filma "Moderna Kugarica".<br>
 
 
 ---[Sudjelovanje na Plitvice Film Festivalu](https://www.facebook.com/watch/?v=509903089794936)
-<img src="images/Plitvice film festival.jpg?raw=true"/>
+<img src="images/Plitvice film festival.jpg?raw=true"/><br>
 U sklopu natječaja za djecu i mlade "Snimi film o prirodi", sudjelovala sam i osvojila drugo mjesto kao autorica filma "Moderna kugarica".<br>
 
 ---[Sudjelovanje na Four River Film Festivalu](https://frff.com.hr/extfiles/catalogues/ct2019.pdf)
