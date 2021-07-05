@@ -28,9 +28,9 @@
 <embed src="images/yp_ommen.pdf?raw=true"/><br>
 ---Youthpass Active & Creative - Žitnik, Hrvatska 15/10/2018
 <embed src="images/yp_zitnik.pdf?raw=true"/><br>
-[Reboot Online - livestream intervju kao suautorica video igre]
+[Reboot Online - livestream intervju kao suautorica video igre](https://youtu.be/apc8aJwuOnM)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/apc8aJwuOnM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
-[HRT Index emisija- sudjelovanje kao autorica filma] 
+[HRT Index emisija- sudjelovanje kao autorica filma](https://www.youtube.com/watch?v=GGMGuo4XcgY)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GGMGuo4XcgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Moji filmovi
