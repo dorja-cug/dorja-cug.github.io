@@ -11,8 +11,7 @@ Na ovome festivalu sudjelovala sam kao autorica filma "Moderna Kugarica".<br>
 
 ---[Sudjelovanje na Dubrovnik Film Festivalu](https://www.zagorje.com/clanak/vijesti/kratkometrazni-film-moderna-kuharica-dorje-cug-i-dee-vitas-iz-sudigo-a-plasirao-se-na-dubr)
 <img src="images/DUFF kugarica.jpg?raw=true"/>
-
-
+Sudjelovala sam kao autorica filma "Modern Crookshow".<br>
 ---[Sudjelovanje na Plitvice Film Festivalu](https://www.facebook.com/watch/?v=509903089794936)
 <img src="images/Plitvice film festival.jpg?raw=true"/><br>
 U sklopu natječaja za djecu i mlade "Snimi film o prirodi", sudjelovala sam i osvojila drugo mjesto kao autorica filma "Moderna kugarica".<br>
@@ -21,7 +20,7 @@ U sklopu natječaja za djecu i mlade "Snimi film o prirodi", sudjelovala sam i o
 Sudjelovala sam kao autorica filma "Modern Crookshow".<br>
 ---[Sudjelovanje na Zasvijetli izložbi](https://nizagorjemalo.hr/luc/sudigo-zasvijetlio-u-zagrebu-u-zizi-drustvenih-promjena/)
 <img src="images/Zasvijetli.jpg?raw=true"/>
-Sudjelovala sam kao suautorica eksperimentalnog videa "Kosa".<br>
+Sudjelovala sam kao suautorica videoinstalacije "Kosa".<br>
 ---[Sudjelovanje na Betina Film Festival kampusu](https://www.facebook.com/BetinaFilmFestival/photos/1162013280851315/)
 <img src="images/Baff.jpg?raw=true"/>
 <br>
