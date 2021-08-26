@@ -28,7 +28,7 @@
 <img src="images/certifikat.jpg?raw=true"/><br>
 ---Youthpass RePlay - Ommen, Nizozemska 16/08/2020
 <embed src="images/yp_ommen.pdf?raw=true"/><br>
----Youthpass Active & Creative - Žitnik, Hrvatska 15/10/2018
+---Youthpass Active & Creative - Veliki Žitnik, Hrvatska 15/10/2018
 <embed src="images/yp_zitnik.pdf?raw=true"/><br>
 [Reboot Online - livestream intervju kao suautorica video igre](https://youtu.be/apc8aJwuOnM)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/apc8aJwuOnM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
