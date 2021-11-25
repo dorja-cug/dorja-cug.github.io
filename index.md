@@ -16,7 +16,7 @@
 <img src="images/Zasvijetli.jpg?raw=true"/>
 ---[Sudjelovanje na Betina Film Festival kampusu](https://www.facebook.com/BetinaFilmFestival/photos/1162013280851315/)
 <img src="images/Baff.jpg?raw=true"/><br>
----[Sudjelovanje na Ciklop film festivalu kao autorica filma](https://www.ciklopfilmfest.eu/program)
+---[Sudjelovanje na Ciklop film festivalu kao autorica filma]
 <img src="images/ciklop.jpg?raw=true"/><br>
 ---Sudjelovanje na županijskom natjecanju iz engleskog jezika
 <img src="images/engleski.jpg?raw=true"/><br>
