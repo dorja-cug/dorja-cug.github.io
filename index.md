@@ -26,6 +26,8 @@
 <img src="images/radio.jpg?raw=true"/><br>
 ---Potvrda o završenom tečaju
 <img src="images/certifikat.jpg?raw=true"/><br>
+---Potvrda o završenom tečaju
+<img src="images/blender.jpg?raw=true"/><br>
 ---Youthpass RePlay - Ommen, Nizozemska 16/08/2020
 <embed src="images/yp_ommen.pdf?raw=true"/><br>
 ---Youthpass Active & Creative - Veliki Žitnik, Hrvatska 15/10/2018
