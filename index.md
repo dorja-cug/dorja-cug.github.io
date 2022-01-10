@@ -18,7 +18,7 @@
 <img src="images/Baff.jpg?raw=true"/><br>
 ---[Participation in Ciklop Film Festival as a filmmaker](https://www.ciklopfilmfest.eu/program-1-cff-a)
 <img src="images/ciklop.jpg?raw=true"/><br>
----[Participation in the county English language competition]
+---Participation in the county English language competition
 <img src="images/engleski.jpg?raw=true"/><br>
 ---[Participation in the Mock Talks program as a speaker](https://www.youtube.com/watch?v=mSFSfSh-xGE)
 <img src="images/ted_talk.jpg?raw=true"/><br>
