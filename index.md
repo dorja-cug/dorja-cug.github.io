@@ -2,7 +2,7 @@
 
 ---
 
-### Potvrde o sudjelovanju
+### Certificates of participation
 
 ---Participation in the 7th Environmental Film Festival as a filmmaker(https://okolisnifestival.zelena-akcija.hr/program-2020/)
 <img src="images/okolisni_filmski_festival.jpeg?raw=true"/><br>
