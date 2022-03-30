@@ -32,6 +32,8 @@
 <embed src="images/yp_ommen.pdf?raw=true"/><br>
 ---Youthpass Active & Creative - Veliki Žitnik, Croatia 15/10/2018
 <embed src="images/yp_zitnik.pdf?raw=true"/><br>
+---Youthpass Nagigating to Resilience - Veliki Žitnik, Croatia 6/03/2022
+<embed src="images/Youthpass_2022.pdf?raw=true"/><br>
 [Reboot Online - livestream interview as a co-author of a video game](https://youtu.be/apc8aJwuOnM)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/apc8aJwuOnM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 [HRT Index show - participation as a film author](https://www.youtube.com/watch?v=GGMGuo4XcgY)
