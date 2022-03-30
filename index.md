@@ -28,6 +28,8 @@
 <img src="images/certifikat.jpg?raw=true"/><br>
 ---Certificate of completed course
 <img src="images/blender_eng.jpg?raw=true"/><br>
+---Certificate of completed course
+<img src="images/film_certificate.jpg?raw=true"/><br>
 ---Youthpass RePlay - Ommen, Netherlands 16/08/2020
 <embed src="images/yp_ommen.pdf?raw=true"/><br>
 ---Youthpass Active & Creative - Veliki Žitnik, Croatia 15/10/2018
