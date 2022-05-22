@@ -43,19 +43,3 @@
 [HRT Index show - participation as a film author](https://www.youtube.com/watch?v=GGMGuo4XcgY)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GGMGuo4XcgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
-
-### My films
-
-- [Chess warfare](https://youtu.be/BknSIQ34q6o)
-- [facade](https://youtu.be/vJhwPj2xjGU)
-- [Modern crookshow](https://youtu.be/X1LhlHebvA8)
-- [Špilja života](https://youtu.be/KARWocfbHIg)
-- [Vivex](https://youtu.be/Rd9rjjJ9amo)
-
-
-
-
-
-
-
-
