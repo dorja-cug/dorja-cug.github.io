@@ -12,5 +12,13 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href="images/Bilankov_letter_of_recommendation.pdf" download>2nd Letter of recommendation</a><br>
   <a href="https://vimeo.com/user99122011">Vimeo Profile</a><br> 
   <a href="https://www.artstation.com/its_fenn">Artstation Profile</a><br>
+  ### My films
+<br>
+- [Chess warfare](https://youtu.be/BknSIQ34q6o)<br>
+- [facade](https://youtu.be/vJhwPj2xjGU)<br>
+- [Modern crookshow](https://youtu.be/X1LhlHebvA8)<br>
+- [Špilja života](https://youtu.be/KARWocfbHIg)<br>
+- [Vivex](https://youtu.be/Rd9rjjJ9amo)<br>
+
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
