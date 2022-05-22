@@ -2,9 +2,8 @@
 
 ---
 
-### Certificates of participation
-  ### My films
-<br>
+### Certificates of participation<br>
+My films
 - [Chess warfare](https://youtu.be/BknSIQ34q6o)<br>
 - [facade](https://youtu.be/vJhwPj2xjGU)<br>
 - [Modern crookshow](https://youtu.be/X1LhlHebvA8)<br>
