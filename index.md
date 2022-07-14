@@ -6,8 +6,7 @@ My films
 - [Chess warfare](https://youtu.be/BknSIQ34q6o)<br>
 - [facade](https://youtu.be/vJhwPj2xjGU)<br>
 - [Modern crookshow](https://youtu.be/X1LhlHebvA8)<br>
-- [Špilja života](https://youtu.be/KARWocfbHIg)<br>
-- <br>
+- [Špilja života](https://youtu.be/KARWocfbHIg)<br><br>
 ---[Participation in the 7th Environmental Film Festival as a filmmaker](https://okolisnifestival.zelena-akcija.hr/program-2020/)
 <img src="images/okolisni_filmski_festival.jpeg?raw=true"/><br>
 ---[Participation in Dubrovnik Film Festival as a filmmaker](https://www.zagorje.com/clanak/vijesti/kratkometrazni-film-moderna-kuharica-dorje-cug-i-dee-vitas-iz-sudigo-a-plasirao-se-na-dubr)
