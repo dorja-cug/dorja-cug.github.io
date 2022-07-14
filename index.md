@@ -2,7 +2,6 @@
 
 ---
 
-### Certificates of participation<br>
 My films
 - [Chess warfare](https://youtu.be/BknSIQ34q6o)<br>
 - [facade](https://youtu.be/vJhwPj2xjGU)<br>
