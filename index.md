@@ -26,7 +26,7 @@ My films
 <img src="images/engleski.jpg?raw=true"/><br>
 ---[Participation in the Mock Talks program as a speaker](https://www.youtube.com/watch?v=mSFSfSh-xGE)
 <img src="images/ted_talk.jpg?raw=true"/><br>
----[Participation in the HRT show as a speaker](https://radio.hrt.hr/aod/nastava-bez-zvona-u-zaboku/304979/?fbclid=IwAR2XrJT7Reg1O0EKrR3rteZB9ybCu6l_3vdxqe_tTpLsCMsiOFLb6VHuwtw)
+---[Participation in the HRT show as a speaker]
 <img src="images/radio.jpg?raw=true"/><br>
 ---Certificate of completed course
 <img src="images/certifikat.jpg?raw=true"/><br>
