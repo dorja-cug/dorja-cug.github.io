@@ -28,7 +28,7 @@ My films
 <img src="images/engleski.jpg?raw=true"/><br>
 ---[Participation in the Mock Talks program as a speaker](https://www.youtube.com/watch?v=mSFSfSh-xGE)
 <img src="images/ted_talk.jpg?raw=true"/><br>
----[Participation in the HRT show as a speaker]
+---Participation in the HRT show as a speaker
 <img src="images/radio.jpg?raw=true"/><br>
 ---Certificate of completed course
 <img src="images/certifikat.jpg?raw=true"/><br>
