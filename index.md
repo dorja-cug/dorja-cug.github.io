@@ -39,6 +39,8 @@ My films
 ---Certificate of volunteering 
 <img src="images/volontiranje.jpg?raw=true"/><br>
 ---Certificate of volunteering
+<img src="imagesYP Digital Transformers.pdf?raw=true"/><br>
+---Contributing as team member- Lithuania, Armenia, Online 10/10/2022 to 22/04/2023
 <img src="images/poff.jpg?raw=true"/><br>
 ---Youthpass RePlay - Ommen, Netherlands 16/08/2020
 <embed src="images/yp_ommen.pdf?raw=true"/><br>
