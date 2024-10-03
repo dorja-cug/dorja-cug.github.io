@@ -13,9 +13,9 @@ My films
 - [Vivex](https://youtu.be/Rd9rjjJ9amo)<br>
 - [Špilja života](https://youtu.be/KARWocfbHIg)<br><br>
 ---[Participation in the Best of BFM Film Festival]
-<img src="images/sp1.jpeg?raw=true"/><br>
+<img src="images/sp1.jpg?raw=true"/><br>
 ---[Participation in the digital audiovisual creation competition]
-<img src="images/sp2.jpeg?raw=true"/><br>
+<img src="images/sp2.jpg?raw=true"/><br>
 ---[Participation in the National Student and Youth Film Festiva]
 <img src="images/PEFF_2023.jpg?raw=true"/><br>
 ---[Participation in the National Student and Youth Film Festival]
