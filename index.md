@@ -12,25 +12,29 @@ My films
 - [Modern crookshow](https://youtu.be/X1LhlHebvA8)<br>
 - [Vivex](https://youtu.be/Rd9rjjJ9amo)<br>
 - [Špilja života](https://youtu.be/KARWocfbHIg)<br><br>
----[Participation in the National Student and Youth Film Festival as a filmmaker]
+---[Participation in the Best of BFM Film Festival]
+<img src="images/sp1.jpeg?raw=true"/><br>
+---[Participation in the digital audiovisual creation competition]
+<img src="images/sp2.jpeg?raw=true"/><br>
+---[Participation in the National Student and Youth Film Festiva]
 <img src="images/PEFF_2023.jpg?raw=true"/><br>
----[Participation in the National Student and Youth Film Festival as a filmmaker]
+---[Participation in the National Student and Youth Film Festival]
 <img src="images/PEFF_2024.jpg?raw=true"/><br>
----[Participation in the 7th Environmental Film Festival as a filmmaker](https://okolisnifestival.zelena-akcija.hr/program-2020/)
+---[Participation in the 7th Environmental Film Festival](https://okolisnifestival.zelena-akcija.hr/program-2020/)
 <img src="images/okolisni_filmski_festival.jpeg?raw=true"/><br>
----[Participation in Dubrovnik Film Festival as a filmmaker](https://www.zagorje.com/clanak/vijesti/kratkometrazni-film-moderna-kuharica-dorje-cug-i-dee-vitas-iz-sudigo-a-plasirao-se-na-dubr)
+---[Participation in Dubrovnik Film Festival](https://www.zagorje.com/clanak/vijesti/kratkometrazni-film-moderna-kuharica-dorje-cug-i-dee-vitas-iz-sudigo-a-plasirao-se-na-dubr)
 <img src="images/duff.jpg?raw=true"/><br>
----[Participation in Plitvice Film Festival as a filmmaker](https://www.facebook.com/watch/?v=509903089794936)
+---[Participation in Plitvice Film Festival](https://www.facebook.com/watch/?v=509903089794936)
 <img src="images/plitvice_film_festival.jpg?raw=true"/><br>
----[Participation in Four River Film Festival as a filmmaker](https://frff.com.hr/extfiles/catalogues/ct2019.pdf)
+---[Participation in Four River Film Festival](https://frff.com.hr/extfiles/catalogues/ct2019.pdf)
 <img src="images/frff.jpg?raw=true"/>
 ---[Participation in the "Zasvijetli " Exhibition as a co-author of a video installation](https://nizagorjemalo.hr/luc/sudigo-zasvijetlio-u-zagrebu-u-zizi-drustvenih-promjena/)
 <img src="images/Zasvijetli.jpg?raw=true"/>
 ---[Participation in the Betina Film Festival campus](https://www.facebook.com/BetinaFilmFestival/photos/1162013280851315/)
 <img src="images/Baff.jpg?raw=true"/><br>
----[Participation in Ciklop Film Festival as a filmmaker](https://www.ciklopfilmfest.eu/program-1-cff-a)
+---[Participation in Ciklop Film Festival](https://www.ciklopfilmfest.eu/program-1-cff-a)
 <img src="images/ciklop.jpg?raw=true"/><br>
----[Participation in AFILMTEENSFEST Film Festival as a filmmaker](https://www.afilmteensfest.com/catalogue/)
+---[Participation in AFILMTEENSFEST Film Festival](https://www.afilmteensfest.com/catalogue/)
 <img src="images/teens.jpg?raw=true"/><br>
 ---Participation in the county English language competition
 <img src="images/engleski.jpg?raw=true"/><br>
