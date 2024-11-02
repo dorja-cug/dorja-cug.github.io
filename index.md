@@ -13,6 +13,8 @@ My work
 - [Modern crookshow](https://youtu.be/X1LhlHebvA8)<br>
 - [Vivex](https://youtu.be/Rd9rjjJ9amo)<br>
 - [Špilja života](https://youtu.be/KARWocfbHIg)<br><br>
+---[2nd place at Taltech's Game jam 2024](https://gamecamp.ituk.ee/event/08dcca81-1c54-47d0-8eda-151aa7b1e956/games)
+<img src="images/hermes.jpeg?raw=true"/><br>
 ---[Participation in the Best of BFM Film Festival 2024](https://www.tlu.ee/en/bfm/about-us/best-bfm)
 <img src="images/sp1.jpg?raw=true"/><br>
 ---[Participation in the digital audiovisual creation competition]
