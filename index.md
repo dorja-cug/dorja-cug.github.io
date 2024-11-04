@@ -5,6 +5,7 @@
 My work
 - [Void of Hermes](https://ron88.itch.io/voidofhermes) (Story artist & additional sounds)<br>
 - [Janune Delfiin](https://youtu.be/i1NG0aJdnV0?si=S4cqvwcB_tprzyL4) (Editor)<br>
+- [Rotas](https://vimeo.com/963351193) (Producer)<br>
 - [Sober Party](https://www.youtube.com/watch?v=twmHNhzuqF4) (1st AD)<br>
 - [The Most Beautiful Smile in the World](https://www.efis.ee/en/film-categotries/movies/id/21316/) (Costume designer & Set assistant)<br>
 - [Trapped](https://youtu.be/iSeHwxlJarI) (Production designer)<br>
