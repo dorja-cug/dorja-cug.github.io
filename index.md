@@ -56,16 +56,16 @@ My work
 ---Certificate of volunteering
 <img src="images/volontiranje.jpg?raw=true"/><br>
 ---Certificate of volunteering
-   <embed src="images/yp_latvia.pdf?raw=true"/><br>
+  <img src="images/poff.jpg?raw=true"/><br>
 ---Youthpass Digital Skill Through Game Design - Krimulda, Latvia 2024
-<img src="images/poff.jpg?raw=true"/><br>
+ <embed src="images/yp_latvia.pdf?raw=true"/><br>
 ---Contributing as team member- Lithuania, Armenia, Online 10/10/2022 to 22/04/2023
 <embed src="images/yp_dt.pdf?raw=true"/><br>
 ---Youthpass RePlay - Ommen, Netherlands 16/08/2020
 <embed src="images/yp_ommen.pdf?raw=true"/><br>
 ---Youthpass Active & Creative - Veliki Žitnik, Croatia 2018
 <embed src="images/yp_zitnik.pdf?raw=true"/><br>
----Youthpass Navigating to Resilience - Veliki Žitnik, Croatia2022
+---Youthpass Navigating to Resilience - Veliki Žitnik, Croatia 2022
 <embed src="images/yp_zitnik_2022.pdf?raw=true"/><br>
 ---Youthpass What's masc? - Berlin, Germany 2022
 <embed src="images/yp_berlin.pdf?raw=true"/><br>
