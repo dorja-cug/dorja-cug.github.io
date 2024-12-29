@@ -7,7 +7,7 @@ My work
 - [Janune Delfiin](https://youtu.be/i1NG0aJdnV0?si=S4cqvwcB_tprzyL4) (Editor)<br>
 - [Rotas](https://vimeo.com/963351193) (Producer)<br>
 - [Sober Party](https://www.youtube.com/watch?v=twmHNhzuqF4) (1st AD)<br>
-- [The Most Beautiful Smile in the World](https://www.youtube.com/watch?v=N8IANj_VjNY) (Costume designer & Set assistant)<br>
+- [Beautiful Smile](https://www.youtube.com/watch?v=N8IANj_VjNY) (Costume designer & Set assistant)<br>
 - [Trapped](https://youtu.be/iSeHwxlJarI) (Production designer)<br>
 - [Insomniac](https://youtu.be/ouFNgFIdizs)<br>
 - [Chess warfare](https://youtu.be/BknSIQ34q6o)<br>
