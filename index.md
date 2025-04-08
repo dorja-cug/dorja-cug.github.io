@@ -57,7 +57,7 @@ My work
 ---Certificate of volunteering
 <img src="images/volontiranje.jpg?raw=true"/><br>
 ---Certificate of volunteering
-<img src="images/poff2024.pdf?raw=true"/><br>
+<img src="images/poff2024.jpg?raw=true"/><br>
 ---Certificate of volunteering
   <img src="images/poff.jpg?raw=true"/><br>
 ---Youthpass Digital Skill Through Game Design - Krimulda, Latvia 2024
