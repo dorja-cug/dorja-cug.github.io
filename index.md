@@ -42,7 +42,7 @@ My work
 <img src="images/teens.jpg?raw=true"/><br>
 ---[Participation in Croatian One-Minute Film Festival](https://www.afilmteensfest.com/catalogue/)
 <img src="images/1mff.jpg?raw=true"/><br>
----[Participation in Ciklop Film Festival]
+---Participation in Ciklop Film Festival
 <img src="images/ciklop.png?raw=true"/><br>
 ---Participation in the county English language competition
 <img src="images/engleski.jpg?raw=true"/><br>
