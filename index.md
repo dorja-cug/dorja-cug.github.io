@@ -42,6 +42,8 @@ My work
 <img src="images/ciklop.jpg?raw=true"/><br>
 ---[Participation in AFILMTEENSFEST Film Festival](https://www.afilmteensfest.com/catalogue/)
 <img src="images/teens.jpg?raw=true"/><br>
+---[Participation in Croatian One-Minute Film Festival](https://www.afilmteensfest.com/catalogue/)
+<img src="images/1mff.jpg?raw=true"/><br>
 ---Participation in the county English language competition
 <img src="images/engleski.jpg?raw=true"/><br>
 ---[Participation in the Mock Talks program as a speaker](https://www.youtube.com/watch?v=mSFSfSh-xGE)
