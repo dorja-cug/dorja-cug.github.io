@@ -38,13 +38,11 @@ My work
 <img src="images/Zasvijetli.jpg?raw=true"/>
 ---[Participation in the Betina Film Festival campus](https://www.facebook.com/BetinaFilmFestival/photos/1162013280851315/)
 <img src="images/Baff.jpg?raw=true"/><br>
----[Participation in Ciklop Film Festival](https://www.ciklopfilmfest.eu/program-1-cff-a)
-<img src="images/ciklop.jpg?raw=true"/><br>
 ---[Participation in AFILMTEENSFEST Film Festival](https://www.afilmteensfest.com/catalogue/)
 <img src="images/teens.jpg?raw=true"/><br>
 ---[Participation in Croatian One-Minute Film Festival](https://www.afilmteensfest.com/catalogue/)
 <img src="images/1mff.jpg?raw=true"/><br>
----[Participation in Ciklop Film Festival](https://www.afilmteensfest.com/catalogue/)
+---[Participation in Ciklop Film Festival]
 <img src="images/ciklop.png?raw=true"/><br>
 ---Participation in the county English language competition
 <img src="images/engleski.jpg?raw=true"/><br>
