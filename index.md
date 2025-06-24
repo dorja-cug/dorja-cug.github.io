@@ -18,7 +18,7 @@ My work
 - [Chess warfare](https://youtu.be/BknSIQ34q6o) (Director, Editor & Writer)<br>
 - [facade](https://youtu.be/vJhwPj2xjGU) (Director, Editor & Writer)<br>
 - [Modern crookshow](https://youtu.be/X1LhlHebvA8) (Director, Editor & Writer)<br>
-- [Vivex](https://youtu.be/Rd9rjjJ9amo) (Writer & 3d assets)<br>
+- [Vivex](https://youtu.be/Rd9rjjJ9amo) (Writer & 3D assets)<br>
 - [Špilja života](https://youtu.be/KARWocfbHIg) (Director, Editor & Writer) <br><br>
 ---[2nd place at Taltech's Game jam 2024](https://gamecamp.ituk.ee/jams/08dcca81-1c54-47d0-8eda-151aa7b1e956/games)
 <img src="images/hermes.jpeg?raw=true"/><br>
