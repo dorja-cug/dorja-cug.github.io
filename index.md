@@ -3,6 +3,8 @@
 ---
 
 My work
+- [My home](https://youtu.be/cS_x376dsC8?si=AuRAI14Dt0YOnCvt) (1st AD)<br>
+- [Wishful Thinking]() (Production assistant)<br>
 - [Bottlehunters](https://vimeo.com/1083505188/1eeb1df539?share=copy) (Production designer)<br>
 - [Memory Merchant](https://www.youtube.com/watch?v=uzcvizV14P0) (Production designer)<br>
 - [Void of Hermes](https://ron88.itch.io/voidofhermes) (Story artist & additional sounds)<br>
@@ -12,12 +14,12 @@ My work
 - [Beautiful Smile](https://www.youtube.com/watch?v=N8IANj_VjNY) (Costume designer & Set assistant)<br>
 - [Trapped](https://youtu.be/iSeHwxlJarI) (Production designer)<br>
 - [In Her Shoes](https://youtu.be/RZrH8InFeFQ) (Production designer)<br>
-- [Insomniac](https://youtu.be/ouFNgFIdizs)<br>
-- [Chess warfare](https://youtu.be/BknSIQ34q6o)<br>
-- [facade](https://youtu.be/vJhwPj2xjGU)<br>
-- [Modern crookshow](https://youtu.be/X1LhlHebvA8)<br>
-- [Vivex](https://youtu.be/Rd9rjjJ9amo)<br>
-- [Špilja života](https://youtu.be/KARWocfbHIg)<br><br>
+- [Insomniac](https://youtu.be/ouFNgFIdizs) (Director & Producer)<br>
+- [Chess warfare](https://youtu.be/BknSIQ34q6o) (Director, Editor & Writer)<br>
+- [facade](https://youtu.be/vJhwPj2xjGU) (Director, Editor & Writer)<br>
+- [Modern crookshow](https://youtu.be/X1LhlHebvA8) (Director, Editor & Writer)<br>
+- [Vivex](https://youtu.be/Rd9rjjJ9amo) (Writer & 3d assets)<br>
+- [Špilja života](https://youtu.be/KARWocfbHIg) (Director, Editor & Writer) <br><br>
 ---[2nd place at Taltech's Game jam 2024](https://gamecamp.ituk.ee/jams/08dcca81-1c54-47d0-8eda-151aa7b1e956/games)
 <img src="images/hermes.jpeg?raw=true"/><br>
 ---[Participation in the Best of BFM Film Festival 2024](https://www.tlu.ee/en/bfm/about-us/best-bfm)
