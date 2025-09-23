@@ -21,6 +21,8 @@ My work
 - [Modern crookshow](https://youtu.be/X1LhlHebvA8) (Director, Editor & Writer)<br>
 - [Vivex](https://youtu.be/Rd9rjjJ9amo) (Writer & 3D assets)<br>
 - [Špilja života](https://youtu.be/KARWocfbHIg) (Director, Editor & Writer) <br><br>
+---[Internship at Audiocat game studio]
+<img src="images/Audiocat.pdf?raw=true"/><br>
 ---[2nd place at Taltech's Game jam 2024](https://gamecamp.ituk.ee/jams/08dcca81-1c54-47d0-8eda-151aa7b1e956/games)
 <img src="images/hermes.jpeg?raw=true"/><br>
 ---[Participation in the Best of BFM Film Festival 2024](https://www.tlu.ee/en/bfm/about-us/best-bfm)
